@@ -2,3 +2,48 @@
 2. own sentence translation
 3. user cost statistics 
 4. commercial serving
+5. Yandex Translate and Detector
+
+7. Google.Images.Api
+
+0) GetBoleanFromVoiceRecognitionDictionary
+if == True else
+b) findImage
+c) PutBinaryImageToDataBase
+d) PutImageLinkToDB
+
+public AddImage
+
+6. VoiceRecognition and our Dictionary
+
+a) BeforeGoogleRequest check DataBaseWordList
+b)if(True) take translation else(GoogleRecuest())
+c) Add(word) to DataBase
+
+7.Comunication App - DataBase
+a) 
+
+
+8. Android Application 
+* EveryBodyHasGoogleAcount
+* ApiRequestToGoogleTranslate
+
+
+polaczyc uzytkownika z googlem i nie trzymac danych
+3000slow = 5x
+Paczke wysylamy klientowi
+
+9. UnlockPhone by quiz
+
+Google Extract Sentences
+! Nie ustaliliśmy na jakiej podstawie dzielimy wypowiedz na zdanie
+
+sprawdz czy zdanie jest w bazie zanim zapytasz googla. 
+jezeli 30 000 zdan używa w swoim "jezyku" człowiek 
+zanim zapiszesz zdanie to sprawdz czy juz takie istnieje
+15 * 100 000 = 450 000 rekordów 
+ile to klastrów - jeden klaster.
+
+//Pajaczek po bazie danych sprawdzajacy czas
+
+
